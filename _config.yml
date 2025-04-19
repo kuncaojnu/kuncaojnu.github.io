@@ -23,23 +23,23 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Kun Cao"
+  pronouns         : "KunCao.jpg"  
+  bio              : "Associate Professor  Ph.D."
+  location         : "Guangzhou, China"
+  employer         : "Jinan University"
+  URI              : "https://faculty.jnu.edu.cn/wlkjaqxy/ck2/list.psp"
+  email            : "kuncao@jnu.edu.cn" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  #arxiv            : # URL - Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com/citations?user=2kldNuoAAAAJ&hl=zh-CN"
+  #impactstory      : # URL
+  #orcid            : "http://orcid.org/yourorcidurl"
+ # semantic         : # URL
+ # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+ # researchgate     : # URL
+ # scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
